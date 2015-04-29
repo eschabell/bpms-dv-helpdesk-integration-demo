@@ -132,10 +132,6 @@ echo "  - making sure standalone.sh for server is executable..."
 echo
 chmod u+x $JBOSS_HOME/bin/standalone.sh
 
-# Optional: uncomment this to install mock data for JBoss Data Virtualization.
-#
-#echo - setting up mock dv data...
-
 # Final instructions to user to start and run demo.
 echo
 echo "==========================================================================================="
