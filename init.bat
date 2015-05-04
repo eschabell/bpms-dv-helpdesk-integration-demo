@@ -92,7 +92,7 @@ echo.
 xcopy /Y /Q /S "%SUPPORT_DIR%\teiidfiles\data\*.sql" "%JBOSS_HOME_DV%\agents\sql"
 xcopy /Y /Q /S "%SUPPORT_DIR%\teiidfiles\data\*.txt" "%JBOSS_HOME_DV%\agents\txt"
 xcopy /Y /Q /S "%SUPPORT_DIR%\teiidfiles\data\agent-status-ds.h2.db" "%JBOSS_HOME_DV%\agents\db"
-xcopy /Y /Q /S "%SUPPORT_DIR%\teiidfiles\AgentsVDB.war" "%JBOSS_HOME_DV%\standalone\deployments"
+xcopy /Y /Q /S "%SUPPORT_DIR%\teiidfiles\AgentsWS.war" "%JBOSS_HOME_DV%\standalone\deployments"
 
 echo.
 echo   - move virtual database...

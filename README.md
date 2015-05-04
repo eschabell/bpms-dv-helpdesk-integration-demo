@@ -29,6 +29,16 @@ Follow the output instructions to start the JBoss BPM Suite & JBoss DV:
      JBoss DV login:  (u:teiidUser / p:jbossdv1!)
     ```
 
+JBoss Data Virtualization useful links
+--------------------------------------
+* JBoss EAP Admin Console
+  http://localhost:9990/console
+* WSDL for retrieving available helpdesk agents 
+  http://localhost:8080/AgentsWS/AvailableAgents_agents?wsdl
+* OData for retrieving helpdesk agents
+  http://localhost:8080/odata/AgentsVDB.1/AvailableAgents.agents?$format=json
+
+
 
 Supporting Articles
 -------------------
