@@ -1,3 +1,6 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/eschabell/bpms-dv-helpdesk-integration-demo)
+
+
 JBoss BPM Suite & JBoss Data Virtualization Integration Helpdesk Demo 
 =====================================================================
 Demonstration project for helpdesk assignment of initial callers to available helpdesk personel on the basis of qualifications to
